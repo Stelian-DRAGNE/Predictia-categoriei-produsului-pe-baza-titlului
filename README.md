@@ -1,6 +1,6 @@
 # Predictia categoriei produsului pe baza titlului
 
-## Predicția categoriei produsulu pe baza titlului
+## Predicția categoriei produsului pe baza titlului
 
 ## 🔍 Contextul și obiectivul
 Când un produs nou este listat pe platformă, trebuie atribuită categoria corectă 
