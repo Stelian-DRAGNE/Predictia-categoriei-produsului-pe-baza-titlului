@@ -1,0 +1,21 @@
+Accuracy: 0.9536
+
+                  precision    recall  f1-score   support
+
+             CPU       0.00      0.00      0.00        17
+            CPUs       0.98      0.99      0.98       749
+ Digital Cameras       1.00      1.00      1.00       538
+     Dishwashers       0.98      0.93      0.96       681
+        Freezers       0.91      0.96      0.94       440
+ Fridge Freezers       0.96      0.95      0.96      1094
+         Fridges       0.89      0.89      0.89       687
+      Microwaves       0.99      0.98      0.98       466
+    Mobile Phone       0.00      0.00      0.00        11
+   Mobile Phones       0.98      0.99      0.98       801
+             TVs       0.99      0.99      0.99       708
+Washing Machines       0.97      0.95      0.96       803
+          fridge       0.02      0.04      0.02        25
+
+        accuracy                           0.95      7020
+       macro avg       0.74      0.74      0.74      7020
+    weighted avg       0.96      0.95      0.96      7020
