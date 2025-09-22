@@ -1,2 +1,2 @@
-# Predic-ia-categoriei-produsului-pe-baza-titlului
+# Predictia categoriei produsului pe baza titlului
 Predicția categoriei produsulu pe baza titlului
